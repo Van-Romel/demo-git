@@ -11,4 +11,7 @@ public class DemoService {
     public void doloreSit(){
         System.out.println("Dolore Sit");
     }
+    public void amet(){
+        System.out.println("Amet");
+    }
 }
