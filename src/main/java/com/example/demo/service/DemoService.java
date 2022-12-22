@@ -8,4 +8,7 @@ public class DemoService {
     public void loremIpsum(){
         System.out.println("Lorem Ipsum");
     }
+    public void doloreSit(){
+        System.out.println("Dolore Sit");
+    }
 }
